@@ -14,5 +14,11 @@ When this addon is installed, it automatically adds the node group along with ot
 # Compatibility:-
 This addon is compatible with Blender 3.0+ and tested in blender 3.0,  3.1.0
 
+# License:-
+MIT License
+
+Copyright (c) 2022 CODcDevil
+
+
 # Further info:-
 This is my first addon in blender so theres a large amount of chance of causing an error. If you face any error, then create an issue or contact me in Discord. My Discord name is :-  COD©Devil#2334
